@@ -9,7 +9,7 @@ import java.util.logging.Logger;
  * 被调用时，打印出它的参数 lo 和 hi 并按照递归的深度缩进。提示：为递归方法添加一个参数
  * 来保存递归的深度。
  */
-public class P1_22 {
+public class P1_1_22 {
 
     public static int rank(int key, int[] a) {
         System.out.println("-----------------------");

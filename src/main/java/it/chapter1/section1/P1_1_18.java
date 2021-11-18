@@ -6,7 +6,7 @@ package it.chapter1.section1;
  * 计算的结果是什么？将代码中的 + 替换为 * 并将 return  0 改为 return  1，然后回答相同
  * 的问题。
  */
-public class P1_18 {
+public class P1_1_18 {
 
     /**
      * mystery(2, 25)

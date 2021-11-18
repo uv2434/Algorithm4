@@ -3,7 +3,7 @@ package it.chapter1.section1;
 /**
  * 推测 exR1(6)的值
  */
-public class p1_16 {
+public class p1_1_16 {
     public static void main(String[] args) {
         // f(n) = f(n - 3) + n + f(n -2) + n
         /**

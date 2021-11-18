@@ -7,7 +7,7 @@ import java.util.Scanner;
  * 算法中的代码得到一个程序 Euclid，从命令行接受两个参数，计算它们的最大公约数并打印出每
  * 次调用递归方法时的两个参数。使用你的程序计算 1 111 111 和 1 234 567 的最大公约数。
  */
-public class P1_24 {
+public class P1_1_24 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int p = scanner.nextInt();
@@ -16,6 +16,7 @@ public class P1_24 {
     }
 
     public static int gcd(int p, int q) {
+        // 欧几里得算法, 余数为 0 时即除尽了
         if (q == 0) {
             return p;
         }

@@ -9,7 +9,7 @@ import java.util.Scanner;
  * 的结果，精确到小数点后三位。可以用这种程序将棒球球手的击球命中率或者学生的考试分数
  * 制成表格。
  */
-public class P1_21 {
+public class P1_1_21 {
     public static void main(String[] args) {
         int n = 0;
         Scanner scanner = new Scanner(System.in);

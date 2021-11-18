@@ -1,6 +1,6 @@
 package it.chapter1.section1;
 
-public class P1_19_Fibonacci {
+public class P1_1_19_Fibonacci {
 
     public static long F(int N) {
         if (N == 0) {

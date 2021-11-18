@@ -1,6 +1,6 @@
 package it.chapter1.section1;
 
-public class P1_17 {
+public class P1_1_17 {
 
     /**
      * 这段代码中的基础情况永远不会被访问。调用 exR2(3) 会产生调用 exR2(0)、exR2(-3) 和
